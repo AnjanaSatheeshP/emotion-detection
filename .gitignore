@@ -1,0 +1,15 @@
+# Ignore virtual environment
+venv/
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+
+# Ignore media and models
+uploads/
+*.mp4
+*.avi
+*.mkv
+*.h5
+*.pt
+*.pkl
