@@ -2,7 +2,7 @@
 
 # Emotion Detection Web App
 
-A full-stack Emotion Detection web application built using Flask, DeepFace, Bootstrap, and AJAX. This app allows users to detect emotions from text, images, and videos with real-time, interactive, and user-friendly analysis.
+An AI-powered Emotion Detection web app that identifies emotions from text, images, videos, and multilingual input. Built with Flask, DeepFace, HuggingFace Transformers, and Bootstrap, it features user authentication, real-time detection via AJAX, and a clean dashboard UI. With modular detection logic, clean code architecture, and robust unit testing, this all-in-one platform offers seamless emotion recognition across multiple media formats.
 
 ---
 
