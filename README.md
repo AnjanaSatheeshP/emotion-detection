@@ -20,9 +20,14 @@ An AI-powered Emotion Detection web app that identifies emotions from text, imag
 
 ## 🛠 Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap 5, AJAX  
-- **Backend**: Python, Flask  
-- **AI Model**: DeepFace (Facial Emotion Recognition)  
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap 5, AJAX, Jinja2
+- **Backend**: Python, Flask
+-  **Emotion Detection**:
+      - Text: HuggingFace Transformers (RoBERTa)
+      - Image & Video: DeepFace
+      - Multilingual Support: Google Translator, TextBlob
+- **AI Model**: DeepFace (Facial Emotion Recognition)
+- **Database**: SQLite with SQLAlchemy ORM
 - **Others**: TextBlob, Transformers, OpenCV, Chart.js, Google Translate API (planned)
 
 ---
