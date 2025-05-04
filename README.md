@@ -94,7 +94,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## 🙏 Acknowledgements
 
-- [DeepFace](https://github.com/serengil/deepface) by Sefik Serengil  
+- [DeepFace](https://github.com/serengil/deepface)  
 - [IBM Watson NLP](https://www.ibm.com/watson) / [HuggingFace Transformers](https://huggingface.co/transformers)  
 - [Bootstrap Icons](https://icons.getbootstrap.com/) & [Google Fonts](https://fonts.google.com/)
 
